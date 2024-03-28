@@ -1,0 +1,1 @@
+ D:\\D\\flutter_ornekler\\mvvm_flutter-architecture-feed-build\\.dart_tool\\flutter_build\\69fa9756454aba77447322d21c5071fd\\native_assets.yaml: 

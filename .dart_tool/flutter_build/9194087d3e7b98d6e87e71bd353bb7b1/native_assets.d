@@ -1,0 +1,1 @@
+ D:\\D\\flutter_ornekler\\mvvm_yazar_google\\.dart_tool\\flutter_build\\9194087d3e7b98d6e87e71bd353bb7b1\\native_assets.yaml: 
