@@ -1,0 +1,38 @@
+// **************************************************************************
+// JsonSerializableGenerator
+// **************************************************************************
+
+HouseModel _$HouseModelFromJson(Map<String, dynamic> json) => HouseModel(
+      id: json['_id'] as String?,
+      title: json['title'] as String?,
+      description: json['description'] as String?,
+      image: json['image'] as String?,
+      user: json['user'] == null
+          ? null
+          : UserHouse.fromJson(json['user'] as Map<String, dynamic>),
+      iV: json['iV'] as int?,
+    );
+
+Map<String, dynamic> _$HouseModelToJson(HouseModel instance) =>
+    <String, dynamic>{
+      '_id': instance.id,
+      'title': instance.title,
+      'description': instance.description,
+      'image': instance.image,
+      'user': instance.user,
+      'iV': instance.iV,
+    };
+
+UserHouse _$UserHouseFromJson(Map<String, dynamic> json) => UserHouse(
+      json['_id'] as String,
+      json['name'] as String,
+      json['image'] as String,
+      json['date'] as String,
+    );
+
+Map<String, dynamic> _$UserHouseToJson(UserHouse instance) => <String, dynamic>{
+      '_id': instance.id,
+      'name': instance.name,
+      'image': instance.image,
+      'date': instance.date,
+    };
