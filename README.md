@@ -4,7 +4,7 @@
 
 <ul>
 <li><h4>
-Contents: splash page, onboard page, login page, authentication manager, simple service test code
+Contents: splash page, onboard page, login page(for entry | "email": "john@mail.com", "password": "changeme"), authentication manager, simple service test code
 </h4>
 
 
