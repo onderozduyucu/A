@@ -1,0 +1,7 @@
+#Thu Mar 28 17:00:29 TRT 2024
+base.0=D\:\\development\\my_flutter-architecture\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+base.1=D\:\\development\\my_flutter-architecture\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
+path.0=classes.dex
+path.1=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
