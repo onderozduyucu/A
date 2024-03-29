@@ -1,0 +1,53 @@
+name: gen
+description: "A new Flutter package project."
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  json_annotation: ^4.8.1
+  flutter_svg: ^2.0.9
+  lottie: ^2.7.0
+  envied: ^0.5.2
+  equatable: ^2.0.5
+  easy_localization: ^3.0.3
+  flutter_gen: ^5.3.2
+   # network    
+  vexana: ^3.5.2
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  json_serializable: ^6.7.1
+  very_good_analysis: ^5.1.0
+  build_runner: ^2.4.6
+  envied_generator: ^0.5.2
+  flutter_gen_runner: ^5.3.2
+
+flutter_gen:
+  output: lib/src/asset/
+  integrations:
+    lottie: true
+    flutter_svg: true
+
+
+  colors:
+    inputs:
+      - asset/color/colors.xml
+     
+
+
+flutter:
+  assets:
+    - asset/color/
+    - asset/lottie/
+    - asset/svg/
+    - asset/icons/
+    - asset/image/
+    
+
+  
