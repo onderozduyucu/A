@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\D\flutter_ornekler\mvvm_yazar_google\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\windows\firebase_core_plugin_c_api.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\flutter_ornekler\mvvm_yazar_google\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\windows\firebase_core_plugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\flutter_ornekler\mvvm_yazar_google\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\windows\messages.g.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\D\flutter_ornekler\mvvm_yazar_google\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\windows\include\firebase_core\firebase_core_plugin_c_api.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\D\flutter_ornekler\mvvm_yazar_google\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\windows\firebase_core_plugin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\D\flutter_ornekler\mvvm_yazar_google\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\windows\messages.g.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\D\flutter_ornekler\mvvm_yazar_google\build\windows\x64\generated\firebase_core\plugin_version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\D\flutter_ornekler\mvvm_yazar_google\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\windows\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{9E0B0C9A-D050-3953-8B37-CBB591BB747C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CCDE8956-69E2-3721-A6D0-491BE360F7D6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

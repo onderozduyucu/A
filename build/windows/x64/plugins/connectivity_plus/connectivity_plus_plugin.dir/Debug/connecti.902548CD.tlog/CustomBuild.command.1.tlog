@@ -1,0 +1,10 @@
+^D:\D\FLUTTER_ORNEKLER\MVVM_YAZAR_GOOGLE\WINDOWS\FLUTTER\EPHEMERAL\.PLUGIN_SYMLINKS\CONNECTIVITY_PLUS\WINDOWS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/D/flutter_ornekler/mvvm_yazar_google/windows -BD:/D/flutter_ornekler/mvvm_yazar_google/build/windows/x64 --check-stamp-file D:/D/flutter_ornekler/mvvm_yazar_google/build/windows/x64/plugins/connectivity_plus/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
