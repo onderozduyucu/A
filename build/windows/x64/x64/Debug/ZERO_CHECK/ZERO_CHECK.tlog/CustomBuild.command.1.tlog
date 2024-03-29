@@ -1,0 +1,10 @@
+^D:\D\FLUTTER_ORNEKLER\MVVM_YAZAR_GOOGLE\BUILD\WINDOWS\X64\CMAKEFILES\C0BA6171F7B6959E0D6A90C702CCBBD0\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/D/flutter_ornekler/mvvm_yazar_google/windows -BD:/D/flutter_ornekler/mvvm_yazar_google/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/D/flutter_ornekler/mvvm_yazar_google/build/windows/x64/yazar.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
