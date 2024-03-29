@@ -2707,7 +2707,24 @@
                     }
                 },
                 {
-                    "source": "D:\\yedek2\\Sample-Flutter-Application\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "source": "C:\\Users\\Önder\\.gradle\\caches\\transforms-3\\ad3508da65e735d3e6a24b0ad98ecf2e\\transformed\\lifecycle-runtime-2.3.1\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "42",
+                        "endOffsets": "93"
+                    },
+                    "to": {
+                        "startLines": "99",
+                        "startColumns": "4",
+                        "startOffsets": "5844",
+                        "endColumns": "42",
+                        "endOffsets": "5882"
+                    }
+                },
+                {
+                    "source": "D:\\hazir\\Sample-Flutter-Application\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",
@@ -2724,7 +2741,7 @@
                     }
                 },
                 {
-                    "source": "D:\\yedek2\\Sample-Flutter-Application\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "D:\\hazir\\Sample-Flutter-Application\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -2740,23 +2757,6 @@
                         "endLines": "122,125",
                         "endColumns": "12,12",
                         "endOffsets": "7504,7673"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Önder\\.gradle\\caches\\transforms-3\\ad3508da65e735d3e6a24b0ad98ecf2e\\transformed\\lifecycle-runtime-2.3.1\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "42",
-                        "endOffsets": "93"
-                    },
-                    "to": {
-                        "startLines": "99",
-                        "startColumns": "4",
-                        "startOffsets": "5844",
-                        "endColumns": "42",
-                        "endOffsets": "5882"
                     }
                 },
                 {
@@ -2940,7 +2940,7 @@
             "outputFile": "com.example.yazar.app-merged_res-16:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "D:\\yedek2\\Sample-Flutter-Application\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "D:\\hazir\\Sample-Flutter-Application\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

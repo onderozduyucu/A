@@ -1,6 +1,6 @@
-#Fri Mar 29 16:55:23 TRT 2024
-base.0=D\:\\yedek2\\Sample-Flutter-Application\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-base.1=D\:\\yedek2\\Sample-Flutter-Application\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
+#Fri Mar 29 18:04:00 TRT 2024
+base.0=D\:\\hazir\\Sample-Flutter-Application\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+base.1=D\:\\hazir\\Sample-Flutter-Application\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
 path.0=classes.dex
 path.1=classes2.dex
 renamed.0=classes.dex
